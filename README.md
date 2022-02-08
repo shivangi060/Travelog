@@ -7,7 +7,7 @@
 ***
 ***
 *** To avoid retyping too much info. Do a search and replace for the following:
-*** sn2606, TravelLog, LinkedIn, swaranjananayak@gmail.com, TravelLog, Social Network website for sharing travel experiences & travel micro-blogging.
+***  TravelLog, Social Network website for sharing travel experiences & travel micro-blogging.
 -->
 
 
@@ -31,7 +31,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/sn2606/TravelLog">
+  <a href="https://github.com/shivangi060/Travelog">
     <img src="Images\alps_favicon.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -40,14 +40,14 @@
   <p align="center">
     Social Network website for sharing travel experiences & travel micro-blogging.
     <br />
-    <!-- <a href="https://github.com/sn2606/TravelLog"><strong>Explore the docs »</strong></a> -->
+    <!-- <a href="https://github.com/shivangi060/Travelog"><strong>Explore the docs »</strong></a> -->
     <br />
     <!-- <br /> -->
-    <!-- <a href="https://github.com/sn2606/TravelLog">View Demo</a> -->
+    <!-- <a href="https://github.com/shivangi060/Travelog">View Demo</a> -->
     ·
-    <a href="https://github.com/sn2606/TravelLog/issues">Report Bug</a>
+    <a href="https://github.com/shivangi060/Travelog">Report Bug</a>
     ·
-    <!-- <a href="https://github.com/sn2606/TravelLog/issues">Request Feature</a> -->
+    <!-- <a href="https://github.com/shivangi060/Travelog">Request Feature</a> -->
   </p>
 </p>
 
@@ -112,8 +112,7 @@ To get a local copy up and running follow these simple steps.
 
 1. Start XAMPP and open phpMyAdmin on browser.
 2. Create a new database for the project and name it "travellog"
-3. Import the [Database](https://github.com/sn2606/TravelLog/blob/master/Database/travellog.sql)
-4. Clone the repository in any folder and name folder as per choice.
+3. Clone the repository in any folder and name folder as per choice.
     ```
     git clone git@github.com:sn2606/TravelLog.git your-folder-name
     ```
@@ -140,9 +139,9 @@ Contributions are what make the open source community such an amazing place to b
 <!-- CONTACT -->
 ## Contact
 
-Swaranjana Nayak - [@LinkedIn](https://www.linkedin.com/in/swaranjana-nayak/) - swaranjananayak@gmail.com
+Shivangi -  meerarajput@gmail.com
 
-Project Link: [https://github.com/sn2606/TravelLog](https://github.com/sn2606/TravelLog)
+Project Link: [https://github.com/shivangi060/](https://github.com/shivangi060/)
 
 
 
